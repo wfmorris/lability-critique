@@ -1,4 +1,4 @@
-# make panels of Figs S4, S5, and S6 for Morris & Doak manuscript entitled 
+# make panels of Figs S4, S5, and S6 for a manuscript entitled 
 # "What is adaptive demographic lability and when might we expect to see it?"
 
 # **********************************************************************
