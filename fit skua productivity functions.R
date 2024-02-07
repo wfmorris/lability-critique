@@ -1,4 +1,4 @@
-# This code accompanies a manuscript by Morris & Doak entitled 
+# This code accompanies a manuscript entitled 
 # "What is adaptive demographic lability and when might we expect to see it?"
 # It uses data obtained by digitizing Fig. 2 in Barraquand et al., 2014, 
 # Journal of Animal Ecology. The data (found in the file 
