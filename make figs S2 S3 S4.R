@@ -1,4 +1,4 @@
-# make panels of Figs S2, S3, and S4 for Morris & Doak manuscript entitled 
+# make panels of Figs S2, S3, and S4 for a manuscript entitled 
 # "What is adaptive demographic lability and when might we expect to see it?"
 
 graphics.off()
