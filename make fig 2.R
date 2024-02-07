@@ -1,4 +1,4 @@
-# make panels of Fig 2 for Morris & Doak manuscript entitled 
+# make panels of Fig 2 for a manuscript entitled 
 # "What is adaptive demographic lability and when might we expect to see it?"
 
 # Vital rate/driver relationship (VRDR) for adult survival, s.a, vs driver z
